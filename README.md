@@ -1,18 +1,14 @@
-<!-- ══════════════════════════════════════════════
-     👾 SYSTEM OVERRIDE — CYBERPUNK HACKER THEME
-     ═══════════════════════════════════════════════ -->
-
 <p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/main/banner.gif" width="100%" alt="cyberpunk banner"/>
+  <img src="https://raw.githubusercontent.com/LoreleiDev/LoreleiDev/main/banner.gif" width="100%" alt="cyberpunk banner"/>
 </p>
 
-<h1 align="center">
-  <code>
-    <a href="https://github.com/USERNAME">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=C77DFF&center=true&vCenter=true&width=600&height=50&lines=Initializing+system...;Reality+is+just+a+game.;Injecting+cheat+codes...+%F0%9F%92%BB" alt="typing"/>
-    </a>
-  </code>
-</h1>
+<div align="center">
+  <a href="https://github.com/LoreleiDev" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=C77DFF&center=true&vCenter=true&width=600&height=50&lines=Initializing+system...;Reality+is+just+a+game.;Injecting+cheat+codes...+%F0%9F%92%BB" alt="typing"/>
+  </a>
+</div>
+
+<br/>
 
 <br/>
 
@@ -27,24 +23,17 @@
       <pre>
 <code>
 ┌──────────────────────────────────────┐
-│  > Alias    : [Your Name/Nickname]   │
-│  > Class    : Fullstack Dev / Gamer  │
-│  > Level    : 99                     │
-│  > Element  : Quantum / Glitch ⚛️    │
+│  > Alias    : Lorelei Project        │
+│  > Class    : Fullstack Dev          │
 │  > Status   : Rewriting reality...   │
 └──────────────────────────────────────┘
 </code>
       </pre>
-      <p>
-        🎮 <b>Main Focus</b>: Building immersive digital experiences<br/>
-        🌙 <b>Aesthetic</b>: Cyberpunk, Lo-fi, & Retro Arcade<br/>
-        ⚡ <b>Philosophy</b>: <i>"Every system has a backdoor. I just find it."</i>
-      </p>
     </td>
     <td width="50%" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3B5Z3B5Z3B5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8Xgj0CquM/giphy.gif" width="90%" alt="hacker typing"/>
       <br/>
-      <img src="https://github.com/USERNAME/USERNAME/blob/main/profile.png" width="70%" style="border-radius: 50%; border: 3px solid #9D4EDD;" alt="avatar"/>
+      <img src="https://github.com/LoreleiDev/LoreleiDev/blob/main/profile.png" width="70%" style="border-radius: 50%; border: 3px solid #9D4EDD;" alt="avatar"/>
     </td>
   </tr>
 </table>
@@ -67,58 +56,41 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ✦ GITHUB STATS                                 -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<h2>📊 System Metrics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&ring=C77DFF&fire=9D4EDD&currStreakLabel=E0AAFF" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" width="70%"/>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ✦ ACTIVITY GRAPH                               -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<h2>📈 Activity Log</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=E0AAFF" width="100%"/>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ✦ GAMING / VIBE SECTION                        -->
-<!-- ══════════════════════════════════════════════ -->
-
-<h2>🕹️ Current Loadout</h2>
-
 <table>
+  <!-- BARIS 1: Profile & Stats -->
   <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWluZXJhbGluZXJhbGluZXJhbGluZXJhbGluZXJhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btNhMBytxAM6YBa/giphy.gif" width="150"/>
-      <br/><b>Energy</b><br/>⚡ 100%
+    <td width="50%" valign="top">
+      <h3>👾 System Profile</h3>
+      <pre>
+<code>
+┌──(lorelei㉿project)-[~]
+└─$ cat system_info.txt
+┌──────────────────────────────────────┐
+│  > Alias    : Lorelei Project        │
+│  > Class    : Free Fullstack Dev     │
+│  > Status   : Enjoying "Life"        │
+└──────────────────────────────────────┘
+┌──(lorelei㉿project)-[~]
+└─$ █
+</code>
+      </pre>
     </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2FtZXJnYW1lcmdhbWVyZ2FtZXJnYW1lcmdhbWVyZ2FtZXImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/26FLdmIp6wJr91JAI/giphy.gif" width="150"/>
-      <br/><b>Bugs Squashed</b><br/>🐛 999+
+    <td width="50%" valign="top" align="center">
+      <h3>📊 System Metrics</h3>
+      <a href="https://github.com/LoreleiDev" style="text-decoration: none;">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LoreleiDev?cardType=level-alternate&theme=github-dark&fontFamily=Fira%20Sans&preferLogin=false" alt="GitHub Stats" width="100%"/>
+      </a>
     </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJvZ3JhbXByb2dyYW1wcm9ncmFtcHJvZ3JhbXByb2dyYW1wcm9ncmFtJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="150"/>
-      <br/><b>Cheat Codes</b><br/>🎮 Activated
+  </tr>
+
+  <!-- BARIS 2: Activity Graph (Full Width) -->
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 20px;">
+      <h3>📈 Activity Log</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoreleiDev&theme=react-dark&hide_border=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=E0AAFF" width="100%" alt="Activity Graph"/>
     </td>
   </tr>
 </table>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════ -->
@@ -127,20 +99,17 @@
 
 <h2>🔗 Establish Connection</h2>
 
-<p align="center">
-  <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=C77DFF"/>
+<div align="center">
+  <a href="https://github.com/LoreleiDev" style="text-decoration: none; display: inline-block; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=C77DFF" alt="GitHub" style="display: block;"/>
   </a>
-  <a href="https://discord.com/users/YOUR_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://instagram.com/shikein.desu" style="text-decoration: none; display: inline-block; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="display: block;"/>
   </a>
-  <a href="https://twitter.com/USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://discord.com/users/912559617995837460" style="text-decoration: none; display: inline-block; margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="display: block;"/>
   </a>
-  <a href="https://instagram.com/USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 <br/>
 
@@ -153,12 +122,6 @@
 </p>
 
 <p align="center">
-  <sub>Built with 💜 & ☕ — <i>The universe is a simulation, I'm just here to find the cheat codes.</i></sub>
+  <sub>Lorelei Project — <i>&copy; 2026</i></sub>
 </p>
 
-<!-- 
-  ╔══════════════════════════════════════════╗
-  ║  [ ACCESS GRANTED ]                      ║
-  ║  End of line.                            ║
-  ╚══════════════════════════════════════════╝
--->
