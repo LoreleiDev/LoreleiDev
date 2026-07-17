@@ -10,36 +10,6 @@
 
 <br/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ✦ ABOUT ME                                     -->
-<!-- ══════════════════════════════════════════════ -->
-
-<table>
-  <tr>
-    <td width="50%">
-      <h2>👾 System Profile</h2>
-      <pre>
-<code>
-┌──────────────────────────────────────┐
-│  > Alias    : Lorelei Project        │
-│  > Class    : Fullstack Dev          │
-│  > Status   : Rewriting reality...   │
-└──────────────────────────────────────┘
-</code>
-      </pre>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5Z3B5Z3B5Z3B5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8Xgj0CquM/giphy.gif" width="90%" alt="hacker typing"/>
-      <br/>
-      <img src="https://github.com/LoreleiDev/LoreleiDev/blob/main/profile.png" width="70%" style="border-radius: 50%; border: 3px solid #9D4EDD;" alt="avatar"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <!-- ═══════════════════════════════════════════════ -->
 <!-- ✦ TECH STACK                                   -->
 <!-- ═══════════════════════════════════════════════ -->
