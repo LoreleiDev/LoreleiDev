@@ -11,27 +11,27 @@
 <table>
   <!-- BARIS 1: Profile & Stats -->
   <tr>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top">
       <h3>👾 System Profile</h3>
       <pre>
 <code>
 ┌──(lorelei㉿project)-[~]
 └─$ cat system_info.txt
-┌──────────────────────────────────────┐
-│  > Alias    : Lorelei Project        │
-│  > Name     : Raditya Nala Argya W.  │
-|  > Class    : Junior Web Dev         |
-│  > Status   : Enjoying "Life"        │
-└──────────────────────────────────────┘
+┌──────────────────────────────────────┐  
+│  > Alias    : Lorelei Project        │  
+│  > Name     : Raditya Nala Argya W.  │  
+│  > Class    : Junior Web Dev         │  
+│  > Status   : Enjoying "Life"        │  
+└──────────────────────────────────────┘   
 ┌──(lorelei㉿project)-[~]
 └─$ █
 </code>
       </pre>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="70%" valign="top" align="center">
       <h3>📊 System Metrics</h3>
       <a href="https://github.com/LoreleiDev" style="text-decoration: none;">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LoreleiDev?cardType=level-alternate&theme=github-dark&fontFamily=Fira%20Sans&preferLogin=false" alt="GitHub Stats" width="100%"/>
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LoreleiDev?cardType=level-alternate&theme=vue&fontFamily=Azeret%20Mono&preferLogin=false&Background=0D1117&Text=C27DF5&Title=0100B1&borderRadius=0&Border=0D1117)](https://git.io/awesome-stats-card"/>
       </a>
     </td>
   </tr>
