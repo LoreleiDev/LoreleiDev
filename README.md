@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LoreleiDev/LoreleiDev/main/banner.gif" width="100%" alt="cyberpunk banner"/>
+  <img src="https://github.com/LoreleiDev/LoreleiDev/blob/b2f5b27d8d4b5a0e1cc0ab08eb0c7b0bdce99de7/banner.gif" width="100%" alt="cyberpunk banner"/>
 </p>
 
 <div align="center">
