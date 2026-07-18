@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LoreleiDev/LoreleiDev/blob/b2f5b27d8d4b5a0e1cc0ab08eb0c7b0bdce99de7/banner.gif" width="60%" alt="cyberpunk banner"/>
+  <img src="https://github.com/LoreleiDev/LoreleiDev/blob/b2f5b27d8d4b5a0e1cc0ab08eb0c7b0bdce99de7/banner.gif" width="60%" alt="banner"/>
 </p>
 
 <div align="center">
@@ -8,67 +8,73 @@
   </a>
 </div>
 
-<table>
-  <!-- BARIS 1: Profile & Stats -->
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- ✦               MAIN DASHBOARD               ✦ -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<table style="width: 100%; border: none;">
+  <!-- BARIS 1: Profile & Quantum Core -->
   <tr>
-    <td width="30%" valign="top">
-      <h3>👾 System Profile</h3>
+    <td valign="top" colspan="2">
+      <h3 align="center">👾 System Profile</h3>
       <pre>
 <code>
 ┌──(lorelei㉿project)-[~]
 └─$ cat system_info.txt
-┌──────────────────────────────────────┐  
-│  > Alias    : Lorelei Project        │  
-│  > Name     : Raditya Nala Argya W.  │  
-│  > Class    : Junior Web Dev         │  
-│  > Status   : Enjoying "Life"        │  
-└──────────────────────────────────────┘   
-┌──(lorelei㉿project)-[~]
+┌────────────────────────────────┐  
+│  > Alias    : Lorelei Project  │  
+│  > Name     : Raditya Nala     │  
+│  > Class    : Junior Web Dev   │  
+│  > Status   : Enjoying "Life"  │  
+└────────────────────────────────┘   
 └─$ █
 </code>
       </pre>
     </td>
-    <td width="70%" valign="top" align="center">
-      <h3>📊 System Metrics</h3>
-      <a href="https://github.com/LoreleiDev" style="text-decoration: none;">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LoreleiDev?cardType=level-alternate&theme=vue&fontFamily=Azeret%20Mono&preferLogin=false&Background=0D1117&Text=C27DF5&Title=0100B1&borderRadius=0&Border=0D1117"/>
-      </a>
-    </td>
   </tr>
 
-  <!-- BARIS 2: Activity Graph (Full Width) -->
+  <!-- BARIS 2: Metrics & Tools -->
   <tr>
-    <td colspan="2" align="center" style="padding-top: 20px;">
+    <td width="65%" valign="top" align="center">
+      <h3>📊 System Metrics</h3>
+      <a href="https://github.com/LoreleiDev" style="text-decoration: none;">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LoreleiDev?cardType=level-alternate&theme=vue&fontFamily=Azeret%20Mono&preferLogin=false&Background=0D1117&Text=C27DF5&Title=0100B1&borderRadius=0&Border=0D1117" width="100%" alt="GitHub Stats"/>
+      </a>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://avatars.githubusercontent.com/LoreleiDev" alt="Profile Picture" width="100%"/>
+    </td>
+  </tr>
+  <!-- BARIS 3: Activity Log -->
+  <tr>
+    <td align="center" colspan="2">
       <h3>📈 Activity Log</h3>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoreleiDev&theme=react-dark&hide_border=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=E0AAFF" width="100%" alt="Activity Graph"/>
     </td>
   </tr>
 </table>
-<br/>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════ -->
-<!-- ✦ TECH STACK                                   -->
+<!-- ✦                  TechStack                 ✦ -->
 <!-- ═══════════════════════════════════════════════ -->
-
-<h2>🛠️ Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python&theme=dark" alt="stack1"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github&theme=dark" alt="stack2"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vite,tailwind,laravel,figma,vscode&theme=dark" alt="stack3"/>
-</p>
+<h2 align="center">🛠️ Tools</h2>
+<div align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs&theme=dark"  style="margin-bottom: 8px;"/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github&theme=dark"  style="margin-bottom: 8px;"/><br/>
+      <img src="https://skillicons.dev/icons?i=vite,tailwind,laravel,figma,vscode&theme=dark" />
+</div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════ -->
-<!-- ✦ SOCIAL / CONNECT                             -->
+<!-- ✦             SOCIAL / CONNECT               ✦ -->
 <!-- ═══════════════════════════════════════════════ -->
 
-<h2>🔗 Establish Connection</h2>
+<h2 align="center">🔗 Establish Connection</h2>
 
 <div align="center">
   <a href="https://github.com/LoreleiDev" style="text-decoration: none; display: inline-block; margin: 0 8px;">
@@ -95,4 +101,3 @@
 <p align="center">
   <sub>Lorelei Project — <i>&copy; 2026</i></sub>
 </p>
-
