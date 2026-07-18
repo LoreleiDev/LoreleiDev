@@ -31,7 +31,7 @@
     <td width="70%" valign="top" align="center">
       <h3>📊 System Metrics</h3>
       <a href="https://github.com/LoreleiDev" style="text-decoration: none;">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LoreleiDev?cardType=level-alternate&theme=vue&fontFamily=Azeret%20Mono&preferLogin=false&Background=0D1117&Text=C27DF5&Title=0100B1&borderRadius=0&Border=0D1117)](https://git.io/awesome-stats-card"/>
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LoreleiDev?cardType=level-alternate&theme=vue&fontFamily=Azeret%20Mono&preferLogin=false&Background=0D1117&Text=C27DF5&Title=0100B1&borderRadius=0&Border=0D1117"/>
       </a>
     </td>
   </tr>
