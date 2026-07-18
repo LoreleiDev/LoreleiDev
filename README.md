@@ -15,26 +15,11 @@
 <!-- ═══════════════════════════════════════════════ -->
 
 <table style="width: 100%; border: none;">
-  <!-- BARIS 1: Profile & Quantum Core -->
   <tr>
     <td valign="top" colspan="2">
       <h3 align="center">👾 System Profile</h3>
-      <pre>
-<code>
-┌──(lorelei㉿project)-[~]
-└─$ cat system_info.txt
-┌────────────────────────────────┐  
-│  > Alias    : Lorelei Project  │  
-│  > Name     : Raditya Nala     │  
-│  > Class    : Junior Web Dev   │  
-│  > Status   : Enjoying "Life"  │  
-└────────────────────────────────┘   
-└─$ █
-</code>
-      </pre>
     </td>
   </tr>
-
   <!-- BARIS 2: Metrics & Tools -->
   <tr>
     <td width="65%" valign="top" align="center">
