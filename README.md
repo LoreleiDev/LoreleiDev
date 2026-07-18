@@ -19,7 +19,7 @@
 └─$ cat system_info.txt
 ┌──────────────────────────────────────┐
 │  > Alias    : Lorelei Project        │
-│  > Class    : Free Fullstack Dev     │
+│  > Class    : Junior Web Dev         │
 │  > Status   : Enjoying "Life"        │
 └──────────────────────────────────────┘
 ┌──(lorelei㉿project)-[~]
