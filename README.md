@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/LoreleiDev/LoreleiDev/blob/b2f5b27d8d4b5a0e1cc0ab08eb0c7b0bdce99de7/banner.gif" width="60%" alt="banner"/>
+  <img src="https://github.com/LoreleiDev/LoreleiDev/blob/b2f5b27d8d4b5a0e1cc0ab08eb0c7b0bdce99de7/banner.gif" width="100%" alt="banner"/>
 </p>
 
 <div align="center">
