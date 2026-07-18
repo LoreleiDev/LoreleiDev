@@ -1,30 +1,12 @@
 <p align="center">
-  <img src="https://github.com/LoreleiDev/LoreleiDev/blob/b2f5b27d8d4b5a0e1cc0ab08eb0c7b0bdce99de7/banner.gif" width="100%" alt="cyberpunk banner"/>
+  <img src="https://github.com/LoreleiDev/LoreleiDev/blob/b2f5b27d8d4b5a0e1cc0ab08eb0c7b0bdce99de7/banner.gif" width="60%" alt="cyberpunk banner"/>
 </p>
 
 <div align="center">
   <a href="https://github.com/LoreleiDev" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=C77DFF&center=true&vCenter=true&width=600&height=50&lines=Initializing+system...;Reality+is+just+a+game.;Injecting+cheat+codes...+%F0%9F%92%BB" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=C77DFF&center=true&vCenter=true&width=600&height=50&lines=Initializing+system...;Initializing+system+security...;Injecting+cheat+codes..." alt="typing"/>
   </a>
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════ -->
-<!-- ✦ TECH STACK                                   -->
-<!-- ═══════════════════════════════════════════════ -->
-
-<h2>🛠️ Arsenal & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,go,rust&theme=dark" alt="stack1"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,kubernetes,aws,linux,git&theme=dark" alt="stack2"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,figma,vscode,neovim,arch&theme=dark" alt="stack3"/>
-</p>
-
-<br/>
 
 <table>
   <!-- BARIS 1: Profile & Stats -->
@@ -61,6 +43,24 @@
     </td>
   </tr>
 </table>
+<br/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- ✦ TECH STACK                                   -->
+<!-- ═══════════════════════════════════════════════ -->
+
+<h2>🛠️ Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python&theme=dark" alt="stack1"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github&theme=dark" alt="stack2"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vite,tailwind,laravel,figma,vscode&theme=dark" alt="stack3"/>
+</p>
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════ -->
