@@ -32,13 +32,6 @@
       <img src="https://avatars.githubusercontent.com/LoreleiDev" alt="Profile Picture" width="100%"/>
     </td>
   </tr>
-  <!-- BARIS 3: Activity Log -->
-  <tr>
-    <td align="center" colspan="2">
-      <h3>📈 Activity Log</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=LoreleiDev&theme=react-dark&hide_border=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=E0AAFF" width="100%" alt="Activity Graph"/>
-    </td>
-  </tr>
 </table>
 
 <br/>
